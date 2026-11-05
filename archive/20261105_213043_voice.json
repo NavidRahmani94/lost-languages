@@ -1,0 +1,16 @@
+{
+ "label": "voice",
+ "direction": "rtl",
+ "duration": 5.874648526077097,
+ "root_midi": 67,
+ "mode": [
+  0,
+  1,
+  3,
+  5,
+  7,
+  8,
+  10
+ ],
+ "mode_name": "phrygian"
+}

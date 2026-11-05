@@ -1,0 +1,16 @@
+{
+ "device": {
+  "name": "Microphone Array (2- Realtek(R)",
+  "api": "MME"
+ },
+ "channel": "mix",
+ "gain_db": 0.0,
+ "mix": {
+  "tone": 1.0,
+  "noise": 1.0,
+  "drone": 1.0,
+  "grain": 1.0,
+  "reverb": 0.38,
+  "master": 1.0
+ }
+}

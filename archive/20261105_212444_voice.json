@@ -1,0 +1,16 @@
+{
+ "label": "voice",
+ "direction": "rtl",
+ "duration": 6.574875283446712,
+ "root_midi": 61,
+ "mode": [
+  0,
+  2,
+  3,
+  5,
+  7,
+  9,
+  10
+ ],
+ "mode_name": "dorian"
+}

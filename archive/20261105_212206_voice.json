@@ -1,0 +1,14 @@
+{
+ "label": "voice",
+ "direction": "rtl",
+ "duration": 6.013968253968254,
+ "root_midi": 70,
+ "mode": [
+  0,
+  2,
+  4,
+  7,
+  9
+ ],
+ "mode_name": "major pentatonic"
+}

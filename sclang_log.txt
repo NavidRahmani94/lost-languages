@@ -1,0 +1,94 @@
+compiling class library...
+	Found 873 primitives.
+	Compiling directory 'C:\Program Files\SuperCollider-3.14.1\SCClassLibrary'
+	Compiling directory 'C:\ProgramData\SuperCollider\Extensions'
+	Compiling directory 'C:\Users\user\AppData\Local\SuperCollider\Extensions'
+	Compiling directory 'C:\Users\user\AppData\Local\SuperCollider\downloaded-quarks\XML'
+	Compiling directory 'C:\Users\user\AppData\Local\SuperCollider\downloaded-quarks\wslib'
+	numentries = 1498661 / 27131800 = 0.055
+	7325 method selectors, 3704 classes
+	method table size 26485328 bytes, big table size 217054400
+	Number of Symbols 18587
+	Byte Code Size 670803
+	compiled 771 files in 0.99 seconds
+
+Info: 2 methods are currently overwritten by extensions. To see which, execute:
+MethodOverride.printAll
+
+compile done
+localhost : setting clientID to 0.
+internal : setting clientID to 0.
+Class tree inited in 0.25 seconds
+
+
+*** Welcome to SuperCollider 3.14.1. *** For help press F1.
+lostLanguages : setting clientID to 0.
+Booting server 'lostLanguages' on address 127.0.0.1:62537.
+
+Device options:
+- MME : Microsoft Sound Mapper - Input
+  (2 ins, 0 outs)
+- MME : Microphone Array (2- Realtek(R)
+  (2 ins, 0 outs)
+- MME : Stereo Mix (2- Realtek(R) Audio
+  (2 ins, 0 outs)
+- MME : Microsoft Sound Mapper - Output
+  (0 ins, 2 outs)
+- MME : Speakers (2- Realtek(R) Audio)
+  (0 ins, 2 outs)
+- Windows DirectSound : Primary Sound Capture Driver
+  (2 ins, 0 outs)
+- Windows DirectSound : Microphone Array (2- Realtek(R) Audio)
+  (2 ins, 0 outs)
+- Windows DirectSound : Stereo Mix (2- Realtek(R) Audio)
+  (2 ins, 0 outs)
+- Windows DirectSound : Primary Sound Driver
+  (0 ins, 2 outs)
+- Windows DirectSound : Speakers (2- Realtek(R) Audio)
+  (0 ins, 2 outs)
+- ASIO : FL Studio ASIO
+  (2 ins, 2 outs)
+- ASIO : Realtek ASIO
+  (2 ins, 2 outs)
+- Windows WASAPI : Speakers (2- Realtek(R) Audio)
+  (0 ins, 2 outs)
+- Windows WASAPI : Microphone Array (2- Realtek(R) Audio)
+  (2 ins, 0 outs)
+- Windows WASAPI : Stereo Mix (2- Realtek(R) Audio)
+  (2 ins, 0 outs)
+- Windows WDM-KS : Microphone (Realtek HD Audio Mic input)
+  (2 ins, 0 outs)
+- Windows WDM-KS : Headphones 1 (Realtek HD Audio 2nd output with SST)
+  (0 ins, 2 outs)
+- Windows WDM-KS : Headphones 2 (Realtek HD Audio 2nd output with SST)
+  (0 ins, 2 outs)
+- Windows WDM-KS : PC Speaker (Realtek HD Audio 2nd output with SST)
+  (2 ins, 0 outs)
+- Windows WDM-KS : Speakers 1 (Realtek HD Audio output with SST)
+  (0 ins, 2 outs)
+- Windows WDM-KS : Speakers 2 (Realtek HD Audio output with SST)
+  (0 ins, 2 outs)
+- Windows WDM-KS : PC Speaker (Realtek HD Audio output with SST)
+  (2 ins, 0 outs)
+- Windows WDM-KS : Microphone Array (Realtek HD Audio Mic Array input)
+  (2 ins, 0 outs)
+- Windows WDM-KS : Stereo Mix (Realtek HD Audio Stereo input)
+  (2 ins, 0 outs)
+
+Requested devices:
+  Out:
+  - (default)
+
+Selecting default system output device
+
+Booting with:
+  Out: Windows WASAPI : Speakers (2- Realtek(R) Audio)
+  Sample rate: 48000.000
+  Latency (in/out): 0.000 / 0.022 sec
+SC_AudioDriver: sample rate = 48000.000000, driver's block size = 64
+SuperCollider 3 server ready.
+Requested notification messages from server 'lostLanguages'
+lostLanguages: server process's maxLogins (1) matches with my options.
+lostLanguages: keeping clientID (0) as confirmed by server process.
+Shared memory server interface initialized
+LOST LANGUAGES sound engine ready — listening on port 57121
